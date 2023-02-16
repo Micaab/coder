@@ -1,0 +1,29 @@
+{
+  "name": "segundaentregacoder",
+  "version": "1.0.0",
+  "description": "pagina consultoria seleccion personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micaab/SegundaEntregaCoder.git"
+  },
+  "keywords": [
+    "recruiting",
+    "headhunting",
+    "it",
+    "recruiter"
+  ],
+  "author": "micaela rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micaab/SegundaEntregaCoder/issues"
+  },
+  "homepage": "https://github.com/Micaab/SegundaEntregaCoder#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
